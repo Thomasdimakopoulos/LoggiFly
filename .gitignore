@@ -2,10 +2,10 @@ experimenting
 testing
 config.yaml
 .venv
-.vscode
 .docker_ignore
 __pycache__
 node_modules
 cache
 notes.txt
 compose.dev.yaml
+config.bat
